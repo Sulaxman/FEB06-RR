@@ -1,0 +1,8 @@
+#Required Metadata
+Sonar.ProjectKey=First
+Sonar.ProjectName=FirstProject
+Sonar.ProjectVersion=1.0
+
+#path to source directory
+Sonar.Sources=src/main/java
+Sonar.language=java

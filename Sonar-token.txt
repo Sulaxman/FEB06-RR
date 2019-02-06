@@ -1,0 +1,7 @@
+1352bb735a358801f741051e97e1bd7040d4f236
+
+For MAven Build
+
+mvn sonar:sonar \
+  -Dsonar.host.url=http://localhost:9000 \
+  -Dsonar.login=1352bb735a358801f741051e97e1bd7040d4f236
